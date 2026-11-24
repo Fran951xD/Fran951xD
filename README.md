@@ -9,6 +9,7 @@ Busco mi primera experiencia profesional, remota y part-time.
 | Proyecto | Qué resuelve | Hecho con |
 |---|---|---|
 | **[Puntual](https://github.com/Fran951xD/puntual)** · [demo](https://puntual-asy.pages.dev) | Turnos online para profesionales independientes. Los clientes reservan, reprograman o cancelan solos, y el profesional maneja todo desde un panel con recordatorios, señas, lista de espera y estadísticas. | JavaScript, Cloudflare Pages y D1 (SQLite), Node 22, Playwright |
+| **[Vaquita](https://github.com/Fran951xD/vaquita)** · [demo](https://fran951xd.github.io/vaquita/despertando/) | Dividir gastos con amigos o en un viaje: cada uno anota lo que puso, en pesos o dólares, y la app dice quién le pasa cuánto a quién con la menor cantidad de transferencias, con el mensaje de WhatsApp ya armado. | Python, FastAPI, SQLAlchemy, PostgreSQL, HTMX, pytest con Hypothesis, Playwright |
 | **[Changa](https://github.com/Fran951xD/changa)** · [demo](https://changa-kappa.vercel.app) | Directorio de oficios del barrio. Plomeros, electricistas y gasistas publican su zona y su número; los vecinos los encuentran en lista o mapa, dejan reseñas y los contactan por WhatsApp. | Next.js, React, TypeScript, PostgreSQL con Drizzle, Leaflet, Vitest |
 | **[Margen](https://github.com/Fran951xD/margen)** · [demo](https://fran951xd.github.io/margen/) | Resume y responde preguntas sobre tus PDFs con IA. Cada afirmación cita documento y página, y la cita se verifica contra el texto original. | JavaScript, API de Gemini, pdf.js, búsqueda BM25 local, PWA |
 | **[Góndola](https://github.com/Fran951xD/GONDOLA)** · [demo](https://fran951xd.github.io/GONDOLA/) | Control de stock para almacenes y kioscos. Caja rápida con lector de códigos, faltantes y pedidos a proveedores, todo sin internet y sin cuentas. | JavaScript, IndexedDB, service worker (funciona offline) |
@@ -17,6 +18,6 @@ Busco mi primera experiencia profesional, remota y part-time.
 
 ### Con qué trabajo
 
-Python, JavaScript y TypeScript · HTML y CSS · SQL (SQLite, PostgreSQL) · Next.js y React · Cloudflare, Vercel y GitHub Pages · APIs de IA (Gemini) · Tests con Playwright y Vitest · Git
+Python, JavaScript y TypeScript · HTML y CSS · SQL (SQLite, PostgreSQL) · Next.js y React · FastAPI · Cloudflare, Vercel y GitHub Pages · APIs de IA (Gemini) · Tests con pytest, Playwright y Vitest · Git
 
 Uso asistentes de IA en mi flujo de desarrollo. Cada proyecto tiene una demo pública y tests automáticos.
